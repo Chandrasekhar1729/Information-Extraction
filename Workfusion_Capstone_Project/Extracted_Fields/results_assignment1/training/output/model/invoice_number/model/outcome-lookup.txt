@@ -1,0 +1,4 @@
+1 O
+2 S-invoice_number
+3 B-invoice_number
+4 E-invoice_number

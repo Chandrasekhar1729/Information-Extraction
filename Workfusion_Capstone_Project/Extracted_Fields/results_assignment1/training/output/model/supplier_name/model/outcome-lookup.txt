@@ -1,0 +1,5 @@
+1 B-supplier_name
+2 E-supplier_name
+3 O
+4 I-supplier_name
+5 S-supplier_name

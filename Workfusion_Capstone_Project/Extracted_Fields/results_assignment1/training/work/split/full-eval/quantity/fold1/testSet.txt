@@ -1,0 +1,16 @@
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\0025c002-4ec2-4c6a-ac40-b1cb4d14cb18_1526302796_1.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\doc00124520180117122409.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\doc00132820180117125933.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\invoice0.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\invoice118.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\invoice129.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\invoice144.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\invoice16.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\invoice185.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\train.0426e5bf-5697-4aa1-b119-814d354a8089.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\train.1a2716df-331c-45a1-ad2e-e8c882e4ebed.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\train.2b9f6f3c-62dd-4363-a149-1ce43bd45278.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\train.51c216af-61f6-41a5-ad8b-863cbfbf1eec.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\train.831fcf7a-bbff-4db9-b276-71e16680159f.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\train.8c387c86-d956-4ba6-b46a-53f9da109826.html
+C:\Data\Claims\Workfusion\ml_sdk_lessons-master_v2\Certification_Task\Extracted_Fields\results_assignment1\training\input\training-set\train.a437a0e6-44aa-4aaa-86d2-62784b1d3a56.html

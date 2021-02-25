@@ -1,0 +1,1 @@
+[{"dataValue":"INV-0042","score":0.6441130293055571,"name":"invoice_number","begin":313,"end":321},{"dataValue":"Cooler Maker Consulting Co","score":0.6487933435669544,"name":"supplier_name","begin":342,"end":368},{"dataValue":"2,400.00","score":0.6289967708077503,"name":"total_amount","begin":658,"end":666}]

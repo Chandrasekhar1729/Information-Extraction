@@ -1,0 +1,6 @@
+Description:
+In module: Multi_Value_Fields contains
+•	Product, Quantity, Price
+
+In module: Single_Value_Fields contains
+•	Invoice Number, Invoice Date, Total Amount, Supplier Name, Email
